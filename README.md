@@ -1,5 +1,5 @@
 
-Pada Tahun 2016 awalnya bernama ngacom (Ngadisimo Computer) kemudian tahun 2017 berubah nama menjadi Eth0 Academy sampai sekarang setelah saya Bertemu dengan Rofiq Ashari yang berpengalaman menjadi IT Support di satu RS Swasta di Kediri. Training Perdana kami yaitu Training Mikrotik 6 Hari yang pesertanya mulai dari pegawai pemerintahan dan Toolman Lembaga Pendidikan.
+Pada Tahun 2016 awalnya bernama NgaCom (Ngadisimo Computer) kemudian tahun 2017 berubah nama menjadi Eth0 Academy sampai sekarang, setelah saya Bertemu dengan Rofiq Ashari yang berpengalaman menjadi IT Support di salah satu RS Swasta di Kediri. Training Perdana kami yaitu Training Mikrotik 6 Hari yang pesertanya mulai dari pegawai pemerintahan sampai Toolman Lembaga Pendidikan.
 
 ## Layanan
 #### Training Networking
@@ -8,7 +8,7 @@ Ciaco CCNA, Sysadmin, Virtualisasi(Eve-ng, Docker, Vmware), Teaching Factory,
 Modul Pembelajaran Networking
 
 #### Training Programming
-Melayani pelatihan Membuat Aplikasi menggunakan Bahasa Pemrograman PHP, MySQL, CSS, Java Script.
+Melayani pelatihan Membuat Aplikasi menggunakan Bahasa Pemrograman PHP, MySQL, CSS, dan Java Script.
 
 #### Service Computer (Software)
 Melayani perbaikan dan insalasi sistem operasi, scan virus,
