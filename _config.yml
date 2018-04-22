@@ -2,3 +2,6 @@
 theme: jekyll-theme-modernist
 title: "ETH0 Academy"
 description: "Training, Service, and IT Support"
+keep_files: [
+  '.well-known/acme-challenge'
+]
