@@ -7,4 +7,4 @@ include: ['.well-known/acme-challenge']
 keep_files: ['.well-known/acme-challenge']
 
 url: https://eth-nol.com
-enforce_ssl: eth-nol.com
+enforce_ssl: true
