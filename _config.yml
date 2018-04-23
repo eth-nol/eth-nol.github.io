@@ -2,11 +2,9 @@
 theme: jekyll-theme-modernist
 title: "ETH0 Academy"
 description: "Training, Service, and IT Support"
+
 include: ['.well-known/acme-challenge']
-keep_files: [
-  '.well-known/acme-challenge'
-]
-site: https://eth-nol.com
+keep_files: ['.well-known/acme-challenge']
 
 url: https://eth-nol.com
 enforce_ssl: eth-nol.com
