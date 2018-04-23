@@ -6,3 +6,6 @@ keep_files: [
   '.well-known/acme-challenge'
 ]
 site: https://eth-nol.com
+
+url: https://eth-nol.com
+enforce_ssl: eth-nol.com
