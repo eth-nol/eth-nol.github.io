@@ -7,6 +7,7 @@ show_downloads: true
 
 github:
   blog_url: https://eth-nol.com/blog/
+  owner_name: https://github.com/eth-nol
 
 include: ['.well-known/acme-challenge']
 keep_files: ['.well-known/acme-challenge']
