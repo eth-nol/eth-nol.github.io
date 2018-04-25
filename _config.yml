@@ -4,7 +4,7 @@ title: "ETH0 Academy"
 description: "Training, Service, and IT Support"
 
 github:
-  another_url: /blog
+  blog_url: https://eth-nol.com/blog/
 
 include: ['.well-known/acme-challenge']
 keep_files: ['.well-known/acme-challenge']
