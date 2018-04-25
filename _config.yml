@@ -3,6 +3,8 @@ theme: jekyll-theme-modernist
 title: "ETH0 Academy"
 description: "Training, Service, and IT Support"
 
+show_downloads: true
+
 github:
   blog_url: https://eth-nol.com/blog/
 
