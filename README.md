@@ -26,6 +26,7 @@ Melayani instalasi Computer Base Test, Website, Konsultasi, dll.
    [https://mikrotik.com/consultants/asia/indonesia](https://mikrotik.com/consultants/asia/indonesia)
    ![konsultan](/consultan-mikrotik.jpg)
 2. Software Engineer (Rofiq Ashari)
+3. Sales Engineer (Dian Hadi Kusuma)
 
 ### Contact
 Rofiq (+6285850105833)<br>
