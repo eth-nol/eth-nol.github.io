@@ -29,4 +29,5 @@ Melayani instalasi Computer Base Test, Website, Konsultasi, dll.
 
 ### Contact
 Rofiq (+6285850105833)<br>
-Syaiful (+6285730947129)
+Syaiful (+6285730947129)<br>
+Dian Hadi (+6285331833397)
